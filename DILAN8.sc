@@ -9,8 +9,8 @@ namespace ConsoleApp7
     * el usuario debe ingresar un correo con dominio unicaribe.edu.co y su contraseña
     * el usuario tendra como datos correctos:
     * 
-    * usuario: yssarmiento@unicaribe.edu.co
-    * contraseña: ys12345@
+    * usuario: ddamirsilva@unicaribe.edu.co
+    * contraseña: ds12345E";
     * 
     * - El programa debe permitir maximo 3 intentos si los datos son correctos debe
     * mostrar "Bienvenido a la plataforma de UNICARIBE"
